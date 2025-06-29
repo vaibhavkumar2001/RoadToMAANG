@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/RoadToMAANG/Array",
-      "program": "d:/RoadToMAANG/Array/build/Debug/outDebug",
+      "cwd": "d:/RoadToMAANG",
+      "program": "d:/RoadToMAANG/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
